@@ -11,42 +11,42 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 
 |   Index | Name                                                    | Difficulty   | Practice                                                             |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------|
-|     001 | 📖 Displaying Proverb on Web Page with JSP               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300386'>Start Lab</a> |
-|     002 | 📖 Spring IoC Employee Management System                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300400'>Start Lab</a> |
-|     003 | 📖 Use Properties to Modify Database Configuration       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300406'>Start Lab</a> |
-|     004 | 📖 Displaying Query Results Using EL Expressions         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300360'>Start Lab</a> |
+|     001 | 📖 Displaying Proverb on Web Page with JSP (Lab)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300386'>Start Lab</a> |
+|     002 | 📖 Spring IoC Employee Management System (Lab)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300400'>Start Lab</a> |
+|     003 | 📖 Use Properties to Modify Database Configuration (L... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300406'>Start Lab</a> |
+|     004 | 📖 Displaying Query Results Using EL Expressions (Lab... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300360'>Start Lab</a> |
 |     005 | 📖 Java Localdate Parse With Formatter                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117836'>Start Lab</a> |
-|     006 | 📖 Outputting Triangle With Out Object                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300388'>Start Lab</a> |
-|     007 | 📖 Setting Up Spring Development Environment             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300398'>Start Lab</a> |
-|     008 | 📖 Unit Testing Java Student Class                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300402'>Start Lab</a> |
-|     009 | 📖 Configuring With YAML Files                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300350'>Start Lab</a> |
-|     010 | 📖 Receive Request Parameters with JavaBean              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300376'>Start Lab</a> |
+|     006 | 📖 Outputting Triangle With Out Object (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300388'>Start Lab</a> |
+|     007 | 📖 Setting Up Spring Development Environment (Lab)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300398'>Start Lab</a> |
+|     008 | 📖 Unit Testing Java Student Class (Lab)                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300402'>Start Lab</a> |
+|     009 | 📖 Configuring With YAML Files (Lab)                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300350'>Start Lab</a> |
+|     010 | 📖 Receive Request Parameters with JavaBean (Lab)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300376'>Start Lab</a> |
 |     011 | 📖 Java LocalDate getMonth Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117796'>Start Lab</a> |
-|     012 | 📖 Chinese-English Information Switching via IoC         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300348'>Start Lab</a> |
-|     013 | 📖 Student Management Module Unit Testing                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300404'>Start Lab</a> |
-|     014 | 📖 MyBatis Database Integration Project                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300374'>Start Lab</a> |
+|     012 | 📖 Chinese-English Information Switching via IoC (Lab... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300348'>Start Lab</a> |
+|     013 | 📖 Student Management Module Unit Testing (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300404'>Start Lab</a> |
+|     014 | 📖 MyBatis Database Integration Project (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300374'>Start Lab</a> |
 |     015 | 📖 Java LocalDate atTime Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117774'>Start Lab</a> |
 |     016 | 📖 Java LocalDate isAfter Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117804'>Start Lab</a> |
 |     017 | 📖 Java LocalDate minusYears Method                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117820'>Start Lab</a> |
-|     018 | 📖 Java LocalDate Now Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117826'>Start Lab</a> |
+|     018 | 📖 Java LocalDate Current Date                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117826'>Start Lab</a> |
 |     019 | 📖 Java LocalDate Of Method                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117830'>Start Lab</a> |
 |     020 | 📖 Java LocalDate Plus Method                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117838'>Start Lab</a> |
 |     021 | 📖 Java LocalDate plusMonths Method                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117840'>Start Lab</a> |
 |     022 | 📖 Java LocalDate Range Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117849'>Start Lab</a> |
 |     023 | 📖 Java LocalDate GetDayOfMonth Method                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117786'>Start Lab</a> |
 |     024 | 📖 Java LocalDate getMonthValue Method                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117798'>Start Lab</a> |
-|     025 | 📖 Java LocalDate Until Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117854'>Start Lab</a> |
-|     026 | 📖 Java LocalDate Until Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117856'>Start Lab</a> |
+|     025 | 📖 Calculating Date Periods with Java                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117854'>Start Lab</a> |
+|     026 | 📖 Using LocalDate Until Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117856'>Start Lab</a> |
 |     027 | 📖 Java LocalDate atStartOfDay Method With Time Zone     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117772'>Start Lab</a> |
 |     028 | 📖 Java LocalDate Minus Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117814'>Start Lab</a> |
 |     029 | 📖 Java LocalDate withYear Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117864'>Start Lab</a> |
 |     030 | 📖 Java Float doubleValue Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117648'>Start Lab</a> |
 |     031 | 📖 Java LocalDate lengthOfYear Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117812'>Start Lab</a> |
-|     032 | 📖 Druid Database Connection Pool Access                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300362'>Start Lab</a> |
-|     033 | 📖 Adding Large Integers                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299822'>Start Lab</a> |
-|     034 | 📖 Java LocalDate Now Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117824'>Start Lab</a> |
-|     035 | 📖 Image Upload Based on TCP Protocol                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300368'>Start Lab</a> |
-|     036 | 📖 Recording Web Page Accesses Using Listeners           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300394'>Start Lab</a> |
+|     032 | 📖 Druid Database Connection Pool Access (Lab)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300362'>Start Lab</a> |
+|     033 | 📖 Adding Large Integers (Lab)                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299822'>Start Lab</a> |
+|     034 | 📖 Using Java LocalDate Now Clock                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117824'>Start Lab</a> |
+|     035 | 📖 Image Upload Based on TCP Protocol (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300368'>Start Lab</a> |
+|     036 | 📖 Recording Web Page Accesses Using Listeners (Lab)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300394'>Start Lab</a> |
 |     037 | 📖 Java LocalDate MinusMonth Method                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117818'>Start Lab</a> |
 |     038 | 📖 Java Timer and TimerTask                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117964'>Start Lab</a> |
 |     039 | 📖 Java Long floatValue Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117882'>Start Lab</a> |
@@ -107,7 +107,7 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     094 | 📖 Java LocalDate getYear Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117800'>Start Lab</a> |
 |     095 | 📖 Deleting a File or Directory                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117434'>Start Lab</a> |
 |     096 | 📖 Generating Random Numbers in a Range                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117409'>Start Lab</a> |
-|     097 | 📖 Java Character isUnicodeIdentifierStart Method        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117565'>Start Lab</a> |
+|     097 | 📖 Validating Unicode Identifier Start                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117565'>Start Lab</a> |
 |     098 | 📖 Java LocalDate getEra Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117792'>Start Lab</a> |
 |     099 | 📖 Files Last Modified Time                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117407'>Start Lab</a> |
 |     100 | 📖 Removing Numeric Values from Java Strings             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117447'>Start Lab</a> |
@@ -132,7 +132,7 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     119 | 📖 Java Float Compare Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117644'>Start Lab</a> |
 |     120 | 📖 Java Character getNumericValue Method                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117497'>Start Lab</a> |
 |     121 | 📖 Java Character isLetterOrDigit Method                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117533'>Start Lab</a> |
-|     122 | 📖 Java Character toTitleCase Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117590'>Start Lab</a> |
+|     122 | 📖 Convert Character to Title Case                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117590'>Start Lab</a> |
 |     123 | 📖 Bitwise XOR Operator in Java                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117997'>Start Lab</a> |
 |     124 | 📖 Java Character isISOControl Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117523'>Start Lab</a> |
 |     125 | 📖 Java Double isInfinite Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117611'>Start Lab</a> |
@@ -143,7 +143,7 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     130 | 📖 Java Float floatToRawIntBits Method                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117652'>Start Lab</a> |
 |     131 | 📖 Create ArrayList From Array                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117403'>Start Lab</a> |
 |     132 | 📖 How to Repeat a String N Times                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117448'>Start Lab</a> |
-|     133 | 📖 Java Character isIdentifierIgnorable Method           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117517'>Start Lab</a> |
+|     133 | 📖 Identifying Ignorable Java Characters                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117517'>Start Lab</a> |
 |     134 | 📖 Java DoubleToLongBits Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117601'>Start Lab</a> |
 |     135 | 📖 Java Integer longValue Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117718'>Start Lab</a> |
 |     136 | 📖 Java Integer RotateLeft Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117740'>Start Lab</a> |
@@ -163,7 +163,7 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     150 | 📖 Java Integer RemainderUnsigned Method                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117734'>Start Lab</a> |
 |     151 | 📖 Java Long doubleValue Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117878'>Start Lab</a> |
 |     152 | 📖 Java Long Reverse Method                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117910'>Start Lab</a> |
-|     153 | 📖 First Program With Quartz Framework                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300366'>Start Lab</a> |
+|     153 | 📖 First Program With Quartz Framework (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300366'>Start Lab</a> |
 |     154 | 📖 Java Localdate Getdayofweek Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117788'>Start Lab</a> |
 |     155 | 📖 Java Integer floatValue Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117710'>Start Lab</a> |
 |     156 | 📖 Creating Custom Java Exceptions                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117405'>Start Lab</a> |
@@ -177,14 +177,14 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     164 | 📖 Checking if a String Is Numeric                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117415'>Start Lab</a> |
 |     165 | 📖 Modulo Operator in Java                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117974'>Start Lab</a> |
 |     166 | 📖 Java Character toUpperCase Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117594'>Start Lab</a> |
-|     167 | 📖 Java Character isLowerCase Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117535'>Start Lab</a> |
+|     167 | 📖 Checking Lowercase Characters in Java                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117535'>Start Lab</a> |
 |     168 | 📖 Java Integer Reverse Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117736'>Start Lab</a> |
 |     169 | 📖 Java Long Max Method                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117892'>Start Lab</a> |
 |     170 | 📖 Java LocalDate GetDayOfYear Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117790'>Start Lab</a> |
-|     171 | 📖 Java LocalDate Now Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117822'>Start Lab</a> |
+|     171 | 📖 Learn Current Local Date                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117822'>Start Lab</a> |
 |     172 | 📖 Convert Integer List to Int Array                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117397'>Start Lab</a> |
 |     173 | 📖 Read XML File                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117444'>Start Lab</a> |
-|     174 | 📖 Java Character isIdentifierIgnorable Method           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117519'>Start Lab</a> |
+|     174 | 📖 Identifying Ignorable Unicode Characters              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117519'>Start Lab</a> |
 |     175 | 📖 Java Integer to Binary Conversion                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117748'>Start Lab</a> |
 |     176 | 📖 Java Double toHexString Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117632'>Start Lab</a> |
 |     177 | 📖 Java Integer shortValue Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117744'>Start Lab</a> |
@@ -192,7 +192,7 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     179 | 📖 How to Convert Stream to an Array                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117425'>Start Lab</a> |
 |     180 | 📖 Java Character Digit Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117487'>Start Lab</a> |
 |     181 | 📖 Java Character isSpaceChar Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117545'>Start Lab</a> |
-|     182 | 📖 Java Character toTitleCase Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117592'>Start Lab</a> |
+|     182 | 📖 Convert Unicode Code Point to Title Case              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117592'>Start Lab</a> |
 |     183 | 📖 Java Double Min Method                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117625'>Start Lab</a> |
 |     184 | 📖 Java Float intBitsToFloat Method                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117660'>Start Lab</a> |
 |     185 | 📖 Java Float intValue Method                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117662'>Start Lab</a> |
@@ -201,8 +201,8 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     188 | 📖 Java Long remainderUnsigned Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117908'>Start Lab</a> |
 |     189 | 📖 Remove Element From a Java Map                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117446'>Start Lab</a> |
 |     190 | 📖 Sort HashSet Elements                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117455'>Start Lab</a> |
-|     191 | 📖 Java Character isJavaIdentifierStart Method           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117529'>Start Lab</a> |
-|     192 | 📖 Java Character isTitleCase Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117557'>Start Lab</a> |
+|     191 | 📖 Identifying Java Identifier Start Characters          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117529'>Start Lab</a> |
+|     192 | 📖 Determining Titlecase Characters in Java              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117557'>Start Lab</a> |
 |     193 | 📖 Java Float floatValue Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117654'>Start Lab</a> |
 |     194 | 📖 Java Long toHexString Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117922'>Start Lab</a> |
 |     195 | 📖 Recursive Merge Sort Implementation in Java           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117972'>Start Lab</a> |
@@ -212,22 +212,22 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     199 | 📖 Java Long LowestOneBit Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117890'>Start Lab</a> |
 |     200 | 📖 Java Float isNaN Method                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117670'>Start Lab</a> |
 |     201 | 📖 Java Float parseFloat Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117680'>Start Lab</a> |
-|     202 | 📖 Java Character toLowerCase Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117582'>Start Lab</a> |
+|     202 | 📖 Convert Unicode Code Point to Lowercase               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117582'>Start Lab</a> |
 |     203 | 📖 JLambda Expressions and Stream API                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117467'>Start Lab</a> |
 |     204 | 📖 Java Integer Min Method                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117722'>Start Lab</a> |
 |     205 | 📖 How to Join Two ArrayList                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117440'>Start Lab</a> |
-|     206 | 📖 Java Character isTitleCase Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117555'>Start Lab</a> |
+|     206 | 📖 Exploring Java Character Title Case Method            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117555'>Start Lab</a> |
 |     207 | 📖 Substring Replacement in Java                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117449'>Start Lab</a> |
 |     208 | 📖 Java Integer toUnsignedLong Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117756'>Start Lab</a> |
 |     209 | 📖 Java Long toOctalString Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117924'>Start Lab</a> |
-|     210 | 📖 Employee Management File Integration                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300364'>Start Lab</a> |
+|     210 | 📖 Employee Management File Integration (Lab)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300364'>Start Lab</a> |
 |     211 | 📖 Reverse String in Java                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117451'>Start Lab</a> |
 |     212 | 📖 Java Math Pow Method                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117939'>Start Lab</a> |
 |     213 | 📖 Java Character codePointCount Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117483'>Start Lab</a> |
 |     214 | 📖 Converting Between an Array and List                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117399'>Start Lab</a> |
 |     215 | 📖 Convert Char to String                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117419'>Start Lab</a> |
 |     216 | 📖 Implementing a Binary Search Tree                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117459'>Start Lab</a> |
-|     217 | 📖 Java Character isUnicodeIdentifierStart Method        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117563'>Start Lab</a> |
+|     217 | 📖 Identifying Unicode Identifier Start Characters       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117563'>Start Lab</a> |
 |     218 | 📖 Java Float to String Conversion                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117684'>Start Lab</a> |
 |     219 | 📖 Copy Files Using Java Files Class                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117430'>Start Lab</a> |
 |     220 | 📖 How to Join Strings                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117439'>Start Lab</a> |
@@ -250,15 +250,15 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     237 | 📖 Java Integer parseUnsignedInt Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117732'>Start Lab</a> |
 |     238 | 📖 Java Integer ValueOf String Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117764'>Start Lab</a> |
 |     239 | 📖 Java Long parseLong Method                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117898'>Start Lab</a> |
-|     240 | 📖 Java Long toUnsignedString Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117932'>Start Lab</a> |
+|     240 | 📖 Java Long Unsigned String Conversion                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117932'>Start Lab</a> |
 |     241 | 📖 Rounding Floating-Point Numbers in Java               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117452'>Start Lab</a> |
 |     242 | 📖 Java Double Equals Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117605'>Start Lab</a> |
 |     243 | 📖 Java Character Codepointat Charsequence Int Method    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117479'>Start Lab</a> |
-|     244 | 📖 Java Integer toString Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117752'>Start Lab</a> |
+|     244 | 📖 Convert Integer to String in Java                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117752'>Start Lab</a> |
 |     245 | 📖 Java Formatting Strings                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117958'>Start Lab</a> |
 |     246 | 📖 Java Character CodePointCount Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117485'>Start Lab</a> |
 |     247 | 📖 Java Double parseDouble Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117627'>Start Lab</a> |
-|     248 | 📖 Java Character toString Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117586'>Start Lab</a> |
+|     248 | 📖 Convert Character to String                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117586'>Start Lab</a> |
 |     249 | 📖 Java Double Max Method                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117623'>Start Lab</a> |
 |     250 | 📖 Count Occurrences of a Character                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117402'>Start Lab</a> |
 |     251 | 📖 Java Character Equals Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117489'>Start Lab</a> |
@@ -268,26 +268,26 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     255 | 📖 Converting ArrayList to LinkedList                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117417'>Start Lab</a> |
 |     256 | 📖 Mastering Java Generics Concepts                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117688'>Start Lab</a> |
 |     257 | 📖 Java Character isSurrogate Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117551'>Start Lab</a> |
-|     258 | 📖 Java Character toString Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117588'>Start Lab</a> |
+|     258 | 📖 Java Character Code Point to String                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117588'>Start Lab</a> |
 |     259 | 📖 Java Float toString Method                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117686'>Start Lab</a> |
 |     260 | 📖 Java Heap Memory Error                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117690'>Start Lab</a> |
 |     261 | 📖 Add Elements to Array and ArrayList                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117386'>Start Lab</a> |
 |     262 | 📖 Immutable Strings in Java Programming                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117995'>Start Lab</a> |
 |     263 | 📖 Java Binary Search                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117471'>Start Lab</a> |
-|     264 | 📖 Java Character toString Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117584'>Start Lab</a> |
-|     265 | 📖 Java Integer toString Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117754'>Start Lab</a> |
+|     264 | 📖 Converting Character to String                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117584'>Start Lab</a> |
+|     265 | 📖 Java Integer String Representation                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117754'>Start Lab</a> |
 |     266 | 📖 Parse Unsigned Integer                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117944'>Start Lab</a> |
 |     267 | 📖 Sorting Techniques in Java                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117987'>Start Lab</a> |
 |     268 | 📖 Java Enum Fundamentals                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117638'>Start Lab</a> |
 |     269 | 📖 Sorting a HashMap                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117985'>Start Lab</a> |
 |     270 | 📖 Efficient QuickSort Divide-and-Conquer Algorithm      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117980'>Start Lab</a> |
-|     271 | 📖 Java Long toString Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117928'>Start Lab</a> |
+|     271 | 📖 Convert Long To String                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117928'>Start Lab</a> |
 |     272 | 📖 How to Read a File to String                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117443'>Start Lab</a> |
 |     273 | 📖 Sorting Java Map by Values                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117453'>Start Lab</a> |
 |     274 | 📖 Introduction to Java Tuples                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117462'>Start Lab</a> |
 |     275 | 📖 Graph Data Structures in Java                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117410'>Start Lab</a> |
 |     276 | 📖 Remove Duplicates From ArrayList                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117445'>Start Lab</a> |
-|     277 | 📖 Java Long toString Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117930'>Start Lab</a> |
+|     277 | 📖 Java Long toString Exploration                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117930'>Start Lab</a> |
 |     278 | 📖 Creating a Swap Function                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117432'>Start Lab</a> |
 |     279 | 📖 Efficient Text Processing with Java BufferedReader    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117473'>Start Lab</a> |
 |     280 | 📖 Java Assertions: Testing Assumptions                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117470'>Start Lab</a> |
@@ -298,8 +298,8 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     285 | 📖 Comparator and Comparable                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117394'>Start Lab</a> |
 |     286 | 📖 Convert InputStream to String                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117396'>Start Lab</a> |
 |     287 | 📖 How to Create an Object                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117433'>Start Lab</a> |
-|     288 | 📖 Merge Multiple Files Alternately                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300382'>Start Lab</a> |
-|     289 | 📖 Search for Text Files in Directory                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300396'>Start Lab</a> |
+|     288 | 📖 Merge Multiple Files Alternately (Lab)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300382'>Start Lab</a> |
+|     289 | 📖 Search for Text Files in Directory (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300396'>Start Lab</a> |
 |     290 | 📖 Mastering Java Hashing and HashCode                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117411'>Start Lab</a> |
 |     291 | 📖 Java POJO Class                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117946'>Start Lab</a> |
 |     292 | 📖 Java Serialization and Deserialization                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117950'>Start Lab</a> |
@@ -308,15 +308,15 @@ This course contains lots of labs for Java, each lab is a small Java project wit
 |     295 | 📖 Java String Concatenation                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117956'>Start Lab</a> |
 |     296 | 📖 Sorting Strings in Java using Arrays.sort()           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117456'>Start Lab</a> |
 |     297 | 📖 Java 11 New Features                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/117465'>Start Lab</a> |
-|     298 | 📖 Bulk Insert Data Into Course Schedule                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300346'>Start Lab</a> |
-|     299 | 📖 Counting Access Times by IP                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300352'>Start Lab</a> |
-|     300 | 📖 Extending Entity with Custom Properties               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300358'>Start Lab</a> |
-|     301 | 📖 Configuring Logging and Batch Aliasing in MyBatis     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300356'>Start Lab</a> |
+|     298 | 📖 Bulk Insert Data Into Course Schedule (Lab)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300346'>Start Lab</a> |
+|     299 | 📖 Counting Access Times by IP (Lab)                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300352'>Start Lab</a> |
+|     300 | 📖 Extending Entity with Custom Properties (Lab)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300358'>Start Lab</a> |
+|     301 | 📖 Configuring Logging and Batch Aliasing in MyBatis ... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300356'>Start Lab</a> |
 |     302 | 📖 Modifying the Teacher Table Using PreparedStatemen... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301362'>Start Lab</a> |
-|     303 | 📖 Statement for Querying Classroom Table                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301412'>Start Lab</a> |
-|     304 | 📖 Query Teacher Salary Using PreparedStatement          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301390'>Start Lab</a> |
-|     305 | 📖 University Information Query System                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301422'>Start Lab</a> |
-|     306 | 📖 Course Schedule CRUD With MyBatis                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300354'>Start Lab</a> |
+|     303 | 📖 Statement for Querying Classroom Table (Lab)          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301412'>Start Lab</a> |
+|     304 | 📖 Query Teacher Salary Using PreparedStatement (Lab)    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301390'>Start Lab</a> |
+|     305 | 📖 University Information Query System (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/301422'>Start Lab</a> |
+|     306 | 📖 Course Schedule CRUD With MyBatis (Lab)               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300354'>Start Lab</a> |
 
 ## More
 
