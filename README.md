@@ -25,9 +25,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                 |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|     001 | 📖 Java Localdate Parse With Formatter                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-parse-with-formatter-117836'>Start Lab</a>                       |
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                 |
+|---------|---------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|     001 | 📖 Java Localdate Parse with Formatter                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-parse-with-formatter-117836'>Start Lab</a>                       |
 |     002 | 📖 Java LocalDate getMonth Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-getmonth-method-117796'>Start Lab</a>                            |
 |     003 | 📖 Java LocalDate atTime Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-attime-method-117774'>Start Lab</a>                              |
 |     004 | 📖 Java LocalDate isAfter Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-isafter-method-117804'>Start Lab</a>                             |
@@ -41,7 +41,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     012 | 📖 Java LocalDate getMonthValue Method                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-getmonthvalue-method-117798'>Start Lab</a>                       |
 |     013 | 📖 Calculating Date Periods with Java                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-calculating-date-periods-with-java-117854'>Start Lab</a>                        |
 |     014 | 📖 Using LocalDate Until Method                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-using-localdate-until-method-117856'>Start Lab</a>                              |
-|     015 | 📖 Java LocalDate atStartOfDay Method With Time Zone     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-atstartofday-method-with-time-zone-117772'>Start Lab</a>         |
+|     015 | 📖 Java LocalDate atStartOfDay Method with Time Zone     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-atstartofday-method-with-time-zone-117772'>Start Lab</a>         |
 |     016 | 📖 Java LocalDate Minus Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-minus-method-117814'>Start Lab</a>                               |
 |     017 | 📖 Java LocalDate withYear Method                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-withyear-method-117864'>Start Lab</a>                            |
 |     018 | 📖 Java Float doubleValue Method                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-float-doublevalue-method-117648'>Start Lab</a>                             |
@@ -155,7 +155,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     126 | 📖 Identify Unicode Identifier Parts in Java             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-identify-unicode-identifier-parts-in-java-117561'>Start Lab</a>                 |
 |     127 | 📖 Java Character isWhitespace Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-character-iswhitespace-method-117572'>Start Lab</a>                        |
 |     128 | 📖 Java Long Compare Method                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-long-compare-method-117868'>Start Lab</a>                                  |
-|     129 | 📖 Formatting With Printf                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-formatting-with-printf-117408'>Start Lab</a>                                    |
+|     129 | 📖 Formatting with Printf                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-formatting-with-printf-117408'>Start Lab</a>                                    |
 |     130 | 📖 Java Character reverseBytes Method                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-character-reversebytes-method-117576'>Start Lab</a>                        |
 |     131 | 📖 Java LocalDate withMonth Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-localdate-withmonth-method-117862'>Start Lab</a>                           |
 |     132 | 📖 Convert String to Byte                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-convert-string-to-byte-117428'>Start Lab</a>                                    |
